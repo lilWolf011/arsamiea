@@ -1,4 +1,26 @@
-# Arsamiea Price List
+# TR - Arsamiea Fiyat Listesi
+
+Çiğ köfte satışı konusunda uzmanlaşmış bir şirket olan **Arsamiea** için tasarlanmış dijital fiyat listesi.
+
+## Özellikler
+- Temiz ve modern görsel düzen  
+- Güncel fiyatlar ve ürün açıklamaları içerir  
+- Ekran ve baskı için optimize edilmiştir
+
+## Format
+- Dosya: PNG görüntüsü  
+- Dijital ekran veya poster baskısı için hazır
+
+## Kullanım
+Bu fiyat listesini mağazada, dijital ekranlarda kullanabilir veya müşterilerin görebilmesi için yazdırabilirsiniz.
+
+---
+
+© Arsamiea – Tüm hakları saklıdır.
+
+Translated with DeepL.com (free version)
+
+# EN - Arsamiea Price List
 
 A digital price list designed for **Arsamiea**, a company specializing in selling raw meatballs (çiğ köfte).
 
