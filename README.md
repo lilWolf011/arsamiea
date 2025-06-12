@@ -18,7 +18,17 @@ Bu fiyat listesini mağazada, dijital ekranlarda kullanabilir veya müşterileri
 
 © Arsamiea – Tüm hakları saklıdır.
 
-Translated with DeepL.com (free version)
+
+
+
+
+
+
+
+
+
+
+
 
 # EN - Arsamiea Price List
 
